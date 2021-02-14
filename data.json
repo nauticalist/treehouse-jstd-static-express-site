@@ -7,6 +7,7 @@
             "technologies": ["Javascript", "HTML", "CSS"],
             "live_link": "https://nauticalist.github.io/treehouse-jstd-random_quote_generator/",
             "github_link": "https://github.com/nauticalist/treehouse-jstd-random_quote_generator",
+            "thumbnail_url": "/static/images/p1_thumb.jpg",
             "image_urls": ["/static/images/p1_01.jpg", "/static/images/p1_02.jpg"]
         },
         {
@@ -16,6 +17,7 @@
             "technologies":  ["Javascript", "HTML", "CSS"],
             "live_link": "https://nauticalist.github.io/treehouse-jstd-data-pagination/",
             "github_link": "https://github.com/nauticalist/treehouse-jstd-data-pagination",
+            "thumbnail_url": "/static/images/p2_thumb.jpg",
             "image_urls": ["/static/images/p2_01.jpg", "/static/images/p2_02.jpg"]
         },
         {
@@ -25,6 +27,7 @@
             "technologies": ["Javascript", "HTML", "CSS"],
             "live_link": "https://nauticalist.github.io/treehouse-jstd-interactive-forms/",
             "github_link": "https://github.com/nauticalist/treehouse-jstd-interactive-forms",
+            "thumbnail_url": "/static/images/p3_thumb.jpg",
             "image_urls": ["/static/images/p3_01.jpg", "/static/images/p3_02.jpg"]
         },
         {
@@ -34,6 +37,7 @@
             "technologies": ["Javascript", "HTML", "CSS"],
             "live_link": "https://nauticalist.github.io/treehouse-jstd-oop-game-show/",
             "github_link": "https://github.com/nauticalist/treehouse-jstd-oop-game-show",
+            "thumbnail_url": "/static/images/p4_thumb.jpg",
             "image_urls": ["/static/images/p4_01.jpg", "/static/images/p4_02.jpg", "/static/images/p4_03.jpg", "/static/images/p4_04.jpg"]
         },
         {
@@ -43,6 +47,7 @@
             "technologies": ["Javascript", "HTML", "CSS"],
             "live_link": "https://nauticalist.github.io/treehouse-jstd-public-api-requests/",
             "github_link": "https://github.com/nauticalist/treehouse-jstd-public-api-requests",
+            "thumbnail_url": "/static/images/p5_thumb.jpg",
             "image_urls": ["/static/images/p5_01.jpg", "/static/images/p5_02.jpg", "/static/images/p5_03.jpg"]
         }
     ]

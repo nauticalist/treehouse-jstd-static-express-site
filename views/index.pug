@@ -10,5 +10,5 @@ block content
             each project in projects
                 div(class="cell")
                     a(href=`/projects/${project.id}`)
-                        img(class="thumbnail", src=`${project.image_urls[0]}`, alt=`${project.project_name}`)
+                        img(class="thumbnail", src=`${project.thumbnail_url}`, alt=`${project.project_name}`)
                         h5= project.project_name

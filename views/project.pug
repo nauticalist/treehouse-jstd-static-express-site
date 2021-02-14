@@ -1,0 +1,20 @@
+extends layout.pug
+
+block content
+    include includes/nav.pug
+    article(class="portfolio-projects")
+        div(class="inner-wrapper flex-row-wrap two-col")
+            div(class="project-info-box box")
+                h1= project.project_name
+                p= project.description
+            div(class="project-tech-links-box box")
+                h6 Technologies
+                ul
+                    each technology in project.technologies
+                        li= technology
+                a(class="btn-link", href=`${project.live_link}`, target="_blank") Live Demo
+                a(class="btn-link", href=`${project.github_link}`, target="_blank") GitHub Repo
+        div(class="project-img-box box")
+            each image in project.image_urls
+                img(class="project-img" src=`${image}` alt=`${project.project_name}`)
+        include includes/nav.pug
