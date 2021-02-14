@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This is my first JS project at Threehouse. It displays random famous quotes each time a button is clicked. ",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://nauticalist.github.io/treehouse-jstd-random_quote_generator/",
+            "github_link": "https://github.com/nauticalist/treehouse-jstd-random_quote_generator",
+            "image_urls": ["/static/images/p1_01.jpg", "/static/images/p1_02.jpg"]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "Vanilla javascript implementation of pagination and filtering",
+            "technologies":  ["Javascript", "HTML", "CSS"],
+            "live_link": "https://nauticalist.github.io/treehouse-jstd-data-pagination/",
+            "github_link": "https://github.com/nauticalist/treehouse-jstd-data-pagination",
+            "image_urls": ["/static/images/p2_01.jpg", "/static/images/p2_02.jpg"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "This is an app that includes an interactive registration form for a fictional Full Stack conference.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://nauticalist.github.io/treehouse-jstd-interactive-forms/",
+            "github_link": "https://github.com/nauticalist/treehouse-jstd-interactive-forms",
+            "image_urls": ["/static/images/p3_01.jpg", "/static/images/p3_02.jpg"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show",
+            "description": "This is a browser-based, word guessing game: Phrase Hunter.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://nauticalist.github.io/treehouse-jstd-oop-game-show/",
+            "github_link": "https://github.com/nauticalist/treehouse-jstd-oop-game-show",
+            "image_urls": ["/static/images/p4_01.jpg", "/static/images/p4_02.jpg", "/static/images/p4_03.jpg", "/static/images/p4_04.jpg"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "This is an API client for Random User Generator API (https://randomuser.me/).",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://nauticalist.github.io/treehouse-jstd-public-api-requests/",
+            "github_link": "https://github.com/nauticalist/treehouse-jstd-public-api-requests",
+            "image_urls": ["/static/images/p5_01.jpg", "/static/images/p5_02.jpg", "/static/images/p5_03.jpg"]
+        }
+    ]
+}
