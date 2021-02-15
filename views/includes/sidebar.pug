@@ -2,8 +2,9 @@ div(class="sidebar", id="my-info")
     div(class="sidebar-info-box")
         br
         div(class="thumbnail-box")
-            img(class="thumbnail" src="/static/images/avatar.jpg" alt="Profile Pic")
+            a(href="/")
+                img(class="logo" src="/static/images/logo-sidebar.png" alt="Home")
         div(class="dev-intro-box")
             h5 Ismail Aksoy 
-            p I am a former captain, current developer, technologist, an entrepreneur at heart with specialized experience in building scalable products and product development teams in fast-changing environments.
-            a(href="/about") Learn More &rarr;
+            h6 Former captain, Current developer, Technologist and Entrepreneur
+            a(href="/about", class="more_link") Learn More &rarr;
